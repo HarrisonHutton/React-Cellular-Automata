@@ -1,0 +1,15 @@
+.node {
+  width: 25px;
+  height: 25px;
+  outline: 0.2px solid rgb(255, 233, 253);
+  font-size: 0;
+  display: inline-block;
+}
+
+.node-alive {
+  background-color: aqua;
+}
+
+.grid {
+  font-size: 0;
+}

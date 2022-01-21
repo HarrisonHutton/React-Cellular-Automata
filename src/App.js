@@ -1,13 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 import CellularAutomata from "./CellularAutomata/CellularAutomata";
 
 function App() {
   return (
     <div className="App">
-      <CellularAutomata>
-
-      </CellularAutomata>
+      <CellularAutomata></CellularAutomata>
     </div>
   );
 }
